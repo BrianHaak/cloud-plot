@@ -1,15 +1,17 @@
 # Cloud-Plot
 
-This project can be used to plot chia in AWS using Fargate.
+This project can be used to plot chia in AWS using Fargate. This method is *not* advised.
 
-The resources this project deploys do incur charges. It is not advised to plot or farm chia in the cloud as the costs quickly scale to a point where it is prohibitively expensive.
-This project uses Fargate, EFS, and S3 to create and store plots. Do you own research before deploying this project.
+⚠️The resources this project deploys do incur charges. 
+It is not advised to plot or farm chia in the cloud as the costs are prohibitively expensive.
+This project uses Fargate, EFS, and S3 to create and store plots. 
+⚠️Do you own research before deploying this project.
 
-This project is mostly untested. It is intended for educational purposes only.
+⚠️This project is mostly untested. It is intended for educational purposes only.
 
-**Use at your own risk and expense.**
+⚠️⚠️**Use at your own risk and expense.**⚠️⚠️
 
-Once deployed, this will continue to plot until destroyed.
+⚠️Once deployed, this will continue to plot until destroyed.
 
 ## To get started you will need:
 
